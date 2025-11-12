@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zakariaa</h1>
+<h1 align="center">Hi 👋, I'm Adam ALLA</h1>
 <h3 align="center">🧠 Computer application development student at Al Kendi (BTS center)</h3>
 
 ---
@@ -64,9 +64,33 @@
 ---
 
 ### 🐍 Snake animation
-<p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at 00:00 UTC (tweak as you want)
+  workflow_dispatch:
+
+permissions:
+  contents: write        # مهم: باش يكتب الملف الناتج فالريبو
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG
+        # use the Platane action (svg-only variant)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: YOUR_GITHUB_USERNAME
+          # output path relative to repo root:
+          output: output/github-contribution-grid-snake.svg
+          palette: github-dark   # choices: github, github-dark, github-light (tweak)
+          snake_color: "#ffd600"
+          dot_color: "#00aaff"
 
 ---
 
