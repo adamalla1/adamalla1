@@ -63,36 +63,6 @@
 
 ---
 
-### 🐍 Snake animation
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at 00:00 UTC (tweak as you want)
-  workflow_dispatch:
-
-permissions:
-  contents: write        # مهم: باش يكتب الملف الناتج فالريبو
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate snake SVG
-        # use the Platane action (svg-only variant)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: YOUR_GITHUB_USERNAME
-          # output path relative to repo root:
-          output: output/github-contribution-grid-snake.svg
-          palette: github-dark   # choices: github, github-dark, github-light (tweak)
-          snake_color: "#ffd600"
-          dot_color: "#00aaff"
-
----
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
