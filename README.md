@@ -37,7 +37,7 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,dart,python,php,java,js,html,css,firebase,flutter,django,bootstrap,mysql,sqlite,git,github,photoshop,premiere,canva,wordpress,docker,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=c,cs,dart,python,php,java,js,html,css,firebase,flutter,django,bootstrap,mysql,sqlite,git,github,photoshop,premiere,wordpress,docker,cloudflare" />
 </p>
 
 ---
