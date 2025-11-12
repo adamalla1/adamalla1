@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Zakariaa</h1>
+<h3 align="center">🧠 Computer application development student at Al Kendi (BTS center)</h3>
 
-<!--
-**adamalla1/adamalla1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+💡 I create themed desktop apps to stay consistent  
+🎯 Passionate Flutter/Dart developer – Modern and High-Performance Mobile Applications  
+🌀 Experienced in UI/UX design, API integration, and building scalable mobile apps  
+💻 You can see my portfolio here 👉 [https://bit.ly/3LftXwp](https://bit.ly/3LftXwp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+### 🌐 Socials
+<p align="center">
+  <a href="https://discord.com" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="discord"/></a>
+  <a href="https://instagram.com" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/></a>
+  <a href="https://linkedin.com" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>
+  <a href="mailto:example@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" alt="email"/></a>
+</p>
+
+---
+
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,dart,python,php,java,js,html,css,firebase,flutter,django,bootstrap,mysql,sqlite,git,github,photoshop,premiere,canva,wordpress,docker,cloudflare" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak"/>
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+### 🐍 Snake animation
+<p align="center">
+  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+</p>
+
