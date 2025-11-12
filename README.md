@@ -30,7 +30,7 @@
   <a href="https://discord.co/adamalla07_97190/" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="discord"/></a>
   <a href="https://www.instagram.com/ad_inosuke/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/></a>
   <a href="https://linkedin.com" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>
-  <a href="adamadalui@gmial.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" alt="email"/></a>
+  <a href="adamadalui@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" alt="email"/></a>
 </p>
 
 ---
