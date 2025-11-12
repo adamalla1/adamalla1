@@ -57,12 +57,7 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?adamalla1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
 
----
 
 
 <p align="center">
