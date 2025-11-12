@@ -7,7 +7,7 @@
 💡 I create themed desktop apps to stay consistent  
 🎯 Passionate Flutter/Dart developer – Modern and High-Performance Mobile Applications  
 🌀 Experienced in UI/UX design, API integration, and building scalable mobile apps  
-💻 You can see my portfolio here 👉 [https://bit.ly/3LftXwp](https://bit.ly/3LftXwp)
+
 
 ---
 
